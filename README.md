@@ -1,10 +1,10 @@
 ![Web-Development](https://user-images.githubusercontent.com/89622562/186752316-92b29f2d-019e-4f26-812d-fe38298eae06.jpg)
 <h1 align="center">Hola 👋, soy Jorge Alejandro González</h1>
-<h3 align="center">Desarrollador web full stack developer</h3>
+<h3 align="center">Desarrollador web full stack </h3>
 
 - 🌱 Actualmente estoy aprendiendo **typescript**
 
-- 📫 How to reach me **joagonzalezfi@unal.edu.co**
+- 📫 **joagonzalezfi@unal.edu.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
