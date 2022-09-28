@@ -1,6 +1,6 @@
 ![Web-Development](https://user-images.githubusercontent.com/89622562/186752316-92b29f2d-019e-4f26-812d-fe38298eae06.jpg)
-<h1 align="center">Hola 👋, soy Jorge Alejandro González</h1>
-<h3 align="center">Desarrollador web full stack </h3>
+<h1 align="center">Hi 👋, I´m Jorge Alejandro González</h1>
+<h3 align="center"> Full stack web developer </h3>
 
 - 🌱 Actualmente estoy aprendiendo **typescript**
 
