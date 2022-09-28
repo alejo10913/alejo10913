@@ -38,5 +38,7 @@ En el front end se trabajó con:
 - Bootstrap
 - Javascript 
 - Redux 
-https://github.com/Dagoav/e-comics
+https://github.com/Dagoav![pagina principal e-comics](https://user-images.githubusercontent.com/89622562/192685772-0015fff1-b07d-4c52-a51b-c55115534875.PNG)
+/e-comics![detail e-comics](https://user-images.githubusercontent.com/89622562/192685790-8e86093e-17ec-4788-9ce1-daad9c5b9347.PNG)
+
 
