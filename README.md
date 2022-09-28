@@ -42,7 +42,9 @@ https://github.com/Dagoav![pagina principal e-comics
 
 
 ![pagina principal e-comics](https://user-images.githubusercontent.com/89622562/192685914-f92bd4cb-45d7-4d3a-8535-92c347049a40.PNG)
+![detail](https://user-images.githubusercontent.com/89622562/192686061-9c9e1d1f-a176-4995-b78d-78af5b5ab095.PNG)
 
+![compras](https://user-images.githubusercontent.com/89622562/192686096-8649ca8f-0bd5-4184-aa9a-39f6984b0d9b.PNG)
 
 
 
