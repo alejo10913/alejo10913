@@ -3,7 +3,7 @@
 <h3 align="center"> Desarrollador web full stack </h3>
 
 <p>
-Soy ingeniero de petróleos de profesión, inicie estudiando de manera autodidacta las tecnologías utilizadas para el desarrollo web. Tome la decisión de hacer un bootcamp que, me permitió mejorar mis conocimientos y habilidades como el trabajo en equipo. 
+Soy ingeniero de petróleos de profesión, inicie estudiando de manera autodidacta las tecnologías utilizadas para el desarrollo web. Tome la decisión de hacer un bootcamp que, me permitió afianzar mis conocimientos ya mejorar  habilidades como el trabajo en equipo. 
 Dispuesto siempre a adquirir nuevos conocimientos que me permitan crecer como persona y como desarrollador.
 
 </p>
@@ -21,11 +21,10 @@ Dispuesto siempre a adquirir nuevos conocimientos que me permitan crecer como pe
 
 ### proyectos 
 
-E-comics
-
-En el proyecto se desarrolló un e-commerce para la venta de comics digitales. Se trabajó con un equipo de 6 integrantes. Se puede ingresar como rol de usuario o rol de administrador, el administrador tiene la posibilidad de dar permisos a usuarios, modificar los artículos que se venden y mirar las estadísticas de ventas y movimientos de los usuarios. 
+##### E-comics
+E-commerce para la venta de comics digitales. Se trabajó con un equipo de 6 integrantes. Se puede ingresar como rol de usuario o rol de administrador.
+El administrador tiene la posibilidad de dar permisos a usuarios, modificar los artículos que se venden y mirar las estadísticas de ventas y movimientos de los usuarios. 
 El usuario, puede ver todos los comics, dejar un comentario, calificar los comics, Puede guardar sus favoritos y realizar las compras mediante tarjeta de crédito. Las compras también quedan registradas. 
-Mi principal aporte al proyecto estuvo en el tema de la autenticación. Desarrolle las rutas de login y sign up en el backend y los respectivos compontes en el frontend. La autenticación se hizo utilizando JWT para la estrategia local, para la autenticación de terceros nos conectamos a los servicios de Google. También realicé la protección de rutas de acuerdo con los diferentes roles que tenemos en la aplicación web. 
 
 En el back end se trabajó con:
 - Typescript
@@ -40,6 +39,4 @@ En el front end se trabajó con:
 - Javascript 
 - Redux 
 https://github.com/Dagoav/e-comics
-
-![pagina principal](https://user-images.githubusercontent.com/89622562/192676936-159b189c-772e-4a25-81de-9b449e421e2d.PNG)
 
