@@ -41,3 +41,5 @@ En el front end se trabajó con:
 - Redux 
 https://github.com/Dagoav/e-comics
 
+![pagina principal](https://user-images.githubusercontent.com/89622562/192676936-159b189c-772e-4a25-81de-9b449e421e2d.PNG)
+
